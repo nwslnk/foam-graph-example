@@ -3,7 +3,7 @@
 
 # md style
 
-[[imabrokenlink]]
+[somelink](/docs/readmeBrokenWiki1.md)
 
 ```
 Foam Logging: info
@@ -57,3 +57,6 @@ Foam Logging: info
 ![blank graph](image.png)
 
 ![working graph](image-1.png)
+
+[[readmeBrokenWiki1]]
+[[readmeBrokenWiki2]]

@@ -1,0 +1,26 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "foam.graph.style": {
+      "background": "#202020",
+      "fontSize": 12,
+      "highlightedForeground": "#f9c74f",
+      "lineColor": "#277da1",
+      "lineWidth": 0.2,
+      "node": {
+        "daily-note": "green",
+        "feature": "red",
+        "note": "blue",
+        "placeholder": "grey",
+        "tag": "yellow" 
+      },
+      "particleWidth": 1.0
+    }
+  }
+
+
+}
